@@ -22,4 +22,4 @@ include:
   - board: levels54_left
   - board: levels54_right
   - board: seeeduino_xiao_ble
-    shield: [levels54_left,levels54_right]_dongle prospector_adapter
+    shield: ["levels54_left", "levels54_right"]_dongle prospector_adapter
