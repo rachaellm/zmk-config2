@@ -10,5 +10,13 @@ manifest:
     - name: zmk
       remote: zmkfirmware
       import: app/west.yml
+    - name: levels54
+      url: https://github.com/Good-Great-Grand-Wonderful/levels54
+      revision: main
+      path: modules/levels54
+    - name: gggw-zmk-keebs
+      url: https://github.com/Good-Great-Grand-Wonderful/gggw-zmk-keebs
+      revision: main
+      path: modules/gggw-zmk-keebs
   self:
     path: config
