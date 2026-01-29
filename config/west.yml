@@ -20,8 +20,5 @@ manifest:
       url: https://github.com/Good-Great-Grand-Wonderful/gggw-zmk-keebs
       revision: main
       path: modules/gggw-zmk-keebs
-    - name: prospector-zmk-module
-      remote: carrefinho
-      revision: main   
   self:
     path: config
